@@ -1,4 +1,4 @@
-<img align="right" src="https://i.imgur.com/JwZYdDt.png" width=380px height=380px />
+<img align="right" src="https://i.imgur.com/JwZYdDt.png" width=350px height=350px />
 
 ### Hi there, I'm Rohit! 👋
 

@@ -1,5 +1,3 @@
-<img align="right" src="https://i.imgur.com/JwZYdDt.png" width=300px height=300px />
-
 ### Hi there, I'm Rohit! 👋
 
 I’m a Hacker, Developer and most of the time i work with startups or multiple organisations.

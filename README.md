@@ -4,9 +4,11 @@
 <img src="https://komarev.com/ghpvc/?username=rohitcoder&label=Profile%20views&color=0e75b6&style=flat" alt="rohitcoder" />
 
 I’m a Hacker, Developer and most of the time i work with startups or multiple organisations.
-
-- How to reach me: Twitter [@rohitcoder](https://twitter.com/rohitcoder) Linkedin [@rohitcoder](https://linkedin.com/in/rohitcoder)
-- AWS Expert, PhP, MySql, React / Node JS, GraphQL, Python, or comfortable in working with any language.
+- I am completely a tech guy, i like making products for startups and I ❤️&nbsp;&nbsp;working with startup.
+- I am also in Bug Bounties, Security stuffs. Generally, I Work with Facebook Bug Bounty Program and i report issues to facebook.
+- Facebook 🏆&nbsp;&nbsp;Hall of Fame Since last 4 Consecutive years: 2018, 2019, 2020 & 2021 <a href="https://facebook.com/whitehat/thanks" target="_blank">Click here to know more</a>
+- I also invest in Stocks & Cryptos!
+- Learning all things related to tech! IoT, Programming, Hacking, Automations.
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>

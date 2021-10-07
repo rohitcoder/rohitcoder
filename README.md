@@ -3,7 +3,7 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=rohitcoder&label=Profile%20views&color=0e75b6&style=flat" alt="rohitcoder" />
 
-I’m a Hacker, Developer and most of the time i work with startups or multiple organisations.
+I’m a Hacker, Developer and most of the time i work with startups
 - I am completely a tech guy, i like making products for startups and I ❤️&nbsp;&nbsp;working with startup.
 - I am also in Bug Bounties, Security stuffs. Generally, I Work with Facebook Bug Bounty Program and i report issues to facebook.
 - Facebook 🏆&nbsp;&nbsp;Hall of Fame Since last 4 Consecutive years: 2018, 2019, 2020 & 2021 <a href="https://facebook.com/whitehat/thanks" target="_blank">Click here to know more</a>

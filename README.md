@@ -1,5 +1,6 @@
 ### Hi there, I'm Rohit! 👋 
-<br><a href="https://twitter.com/rohitcoder" target="blank"><img src="https://img.shields.io/twitter/follow/rohitcoder?logo=twitter&style=for-the-badge" alt="rohitcoder" /></a>
+<br>
+<a href="https://twitter.com/rohitcoder" target="blank"><img src="https://img.shields.io/twitter/follow/rohitcoder?logo=twitter&style=for-the-badge" alt="rohitcoder" /></a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=rohitcoder&label=Profile%20views&color=0e75b6&style=flat" alt="rohitcoder" />
 

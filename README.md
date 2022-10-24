@@ -1,4 +1,4 @@
-[### Hi there, I'm Rohit! 👋 
+### Hi there, I'm Rohit! 👋 
 <br>
 <a href="https://twitter.com/rohitcoder" target="blank"><img src="https://img.shields.io/twitter/follow/rohitcoder?logo=twitter&style=for-the-badge" alt="rohitcoder" /></a>
 <br>
